@@ -13,4 +13,3 @@
 - UN Comtrade: https://comtradeplus.un.org/DataAvailability — trade flows; does not establish brand-level export or tariff volatility by itself.
 - OFAC: https://ofac.treasury.gov/sanctions-list-service — sanctions evidence; use historical snapshots as of prediction time, document name matching and provenance; similarity is not a confirmed match.
 
-Maintain source version, access date, raw record identifiers, observation time, mapping keys, match policy, label definition and coverage for every field. The four sources do not necessarily provide origin documents, content restrictions, tariffs or independent outcomes. Obtain documented additional evidence where necessary, or retain missing values for features; never invent labels. The manuscript does not specify a validated cross-source join, so no automatic join is presented as the original method.
